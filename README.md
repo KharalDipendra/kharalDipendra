@@ -1,26 +1,32 @@
-## About me
+## 👋🏽 About me
 
-I spend most of my time working with low-level C code and reverse engineering stuff. There's something satisfying about understanding exactly how programs work at the binary level. Also do some game development when I have time.
+I spend most of my time working with low-level C code and reverse engineering stuff.  
+There's something satisfying about understanding exactly how programs work at the binary level.  
+Also do some game development when I have time.
+
+---
 
 ### What I use
 
-**C** - My go-to for anything that needs to be fast or interact directly with the system
+**C** – My go-to for fast, low-level tasks or direct system interaction  
+**C#** – Good for building desktop apps and services  
+**Java** – Mostly for work projects and anything that needs to run everywhere  
+**Python** – Quick scripts, automation, data processing  
+**Node.js** – Backend APIs and build tools  
+**Databases** – SQL Server, PostgreSQL, some MongoDB when needed  
+**Ghidra** – For reverse engineering and malware analysis  
+**Game dev** – Godot, some OpenGL stuff in C
 
-**C#** - Good for building desktop apps and services
+---
 
-**Java** - Mostly for work projects and anything that needs to run everywhere  
+### 🛠️ Currently working on
 
-**Python** - Quick scripts, automation, data processing
+- Reverse engineering Pokémon FireRed to extract assets and recreate maps in Tiled using `.tsx` and `.tmx`
+- Building a site for my Uni club
+- Always breaking things to learn how they work, then optimizing them to be faster
 
-**Node.js** - Backend APIs and build tools
+---
 
-**Databases** - SQL Server, PostgreSQL, some MongoDB when needed
+### 🔍 Exploring
 
-**Ghidra** - For reverse engineering and malware analysis
-
-**Game dev** - Godot, some OpenGL stuff in C
-
-### Currently working on
-
-Reverse engineering Pokemon Fire Red to extract assets and recreate the maps in Tiled with .tsx and .tmx files for my game since I suck at map design. Also working on a Site for my Uni club
-I like figuring out why things break and making them faster.
+- Godot engine internals for 2D games
