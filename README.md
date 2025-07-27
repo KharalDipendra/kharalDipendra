@@ -22,5 +22,5 @@ I spend most of my time working with low-level C code and reverse engineering st
 
 ### Currently working on
 
-Reverse engineering Pokemon Fire Red to extract assets and recreate the maps in Tiled with .tsx and .tmx files for my game since I suck at map design. Also working on a Site for my Uni clu
+Reverse engineering Pokemon Fire Red to extract assets and recreate the maps in Tiled with .tsx and .tmx files for my game since I suck at map design. Also working on a Site for my Uni club
 I like figuring out why things break and making them faster.
