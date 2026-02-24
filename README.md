@@ -1,7 +1,6 @@
 ## 👋🏽 About me
 
-I spend most of my time working with low-level C code and reverse engineering stuff.  
-There's something satisfying about understanding exactly how programs work at the binary level.  
+I spend most of my time working with low-level C code and reverse engineering stuff.
 Also do some game development when I have time.
 
 ---
