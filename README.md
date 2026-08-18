@@ -1,6 +1,6 @@
 ## 👋🏽 About me
 
-21-year-old software developer interested in developer tooling, automation, and game development.
+22-year-old software developer interested in developer tooling, automation, and game development.
 
 ## Projects
 
